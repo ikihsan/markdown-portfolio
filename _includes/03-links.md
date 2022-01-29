@@ -16,6 +16,6 @@
 Profile
 ---
 
-my profile 
+## my profile 
 <br>
-www.github.com/ikihsan
+[github](www.github.com/ikihsan)
